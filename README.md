@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://Amal Subrahmanyan.io)
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://AmalSubrahmanyan.io)
 <h1 align="center">Hi 👋, I'm Amal Subrahmanyan</h1>
 <h3 align="center">A passionate flutter developer from India</h3>
-img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif"
+<img align="center" alt=Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amalsubrahmanayan&label=Profile%20views&color=0e75b6&style=flat" alt="amalsubrahmanayan" /> </p>
 
